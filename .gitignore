@@ -1,0 +1,13 @@
+# Logs
+data/ingest.log
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user
+
+# Environment variables
+.env
+
+# Large data files
+data/*.json
