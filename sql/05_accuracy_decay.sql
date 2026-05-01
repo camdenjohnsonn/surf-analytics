@@ -4,9 +4,7 @@ WITH snapshots AS (
         f.forecast_for,
         f.collected_at,
         s.blended_predicted_rating      AS rating,
-        -- How many days before the forecast_for was this snapshot collected?
         ROUND(EXTRACT(EPOCH FROM (f.forecast_for - f.collected_at)) / 86400, 1) AS days_out,
-        -- Most recent rating for this break/hour combination
         LAST_VALUE(s.blended_predicted_rating) OVER (
             PARTITION BY f.break_id, f.forecast_for
             ORDER BY f.collected_at

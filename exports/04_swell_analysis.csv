@@ -1,0 +1,385 @@
+"Break","Dominant Swell","Dominant Height (m)","Dominant Period (s)","Dominant Direction","Meets Min Period","Avg Period All Swells"
+"15th Street","Primary",0.82,5.05,275,"No",5.3
+"15th Street","Primary",0.78,4.95,275,"No",5
+"15th Street","Primary",0.74,4.8,270,"No",5.13
+"15th Street","Primary",0.7,4.65,264,"No",5.45
+"15th Street","Primary",0.66,4.6,259,"No",5.7
+"15th Street","Primary",0.66,4.65,261,"No",5.72
+"15th Street","Primary",0.64,4.7,264,"No",5.62
+"15th Street","Primary",0.64,4.85,266,"No",5.6
+"15th Street","Primary",0.58,5.1,268,"No",5.72
+"15th Street","Primary",0.54,5.35,271,"No",5.85
+"15th Street","Primary",0.48,5.45,273,"No",6
+"15th Street","Primary",0.54,5.2,270,"No",6.22
+"15th Street","Primary",0.62,4.8,268,"No",6.45
+"15th Street","Primary",0.68,4.5,265,"No",6.62
+"15th Street","Primary",0.68,4.25,266,"No",6.63
+"15th Street","Primary",0.66,4.1,267,"No",6.62
+"15th Street","Primary",0.66,4.5,268,"No",6.65
+"15th Street","Primary",0.6,5.75,262,"No",6.83
+"15th Street","Primary",0.54,7.5,257,"No",7.1
+"15th Street","Primary",0.48,9.25,251,"No",7.37
+"15th Street","Primary",0.44,10.95,237,"Yes",7.78
+"15th Street","Primary",0.4,12.65,223,"Yes",8.27
+"15th Street","Primary",0.36,13.95,209,"Yes",8.63
+"15th Street","Primary",0.36,14.65,209,"Yes",8.78
+"Beacons","Primary",0.74,4.8,268,"No",5.15
+"Beacons","Primary",0.68,4.55,265,"No",4.67
+"Beacons","Primary",0.64,4.4,264,"No",4.38
+"Beacons","Primary",0.62,4.3,263,"No",4.18
+"Beacons","Primary",0.58,4.3,262,"No",4.13
+"Beacons","Primary",0.56,4.5,262,"No",4.28
+"Beacons","Primary",0.54,4.85,262,"No",4.6
+"Beacons","Primary",0.52,5,262,"No",4.95
+"Beacons","Primary",0.56,4.8,262,"No",5.38
+"Beacons","Primary",0.62,4.4,262,"No",5.78
+"Beacons","Primary",0.66,4.1,262,"No",6.07
+"Beacons","Primary",0.66,4.05,263,"No",6.13
+"Beacons","Primary",0.68,4.15,263,"No",6.1
+"Beacons","Primary",0.68,4.2,264,"No",6.1
+"Beacons","Primary",0.68,4.2,265,"No",6.25
+"Beacons","Primary",0.66,4.2,265,"No",6.45
+"Beacons","Primary",0.66,4.2,266,"No",6.6
+"Beacons","Primary",0.64,4.05,267,"No",6.6
+"Beacons","Primary",0.62,3.95,268,"No",6.55
+"Beacons","Primary",0.6,4.2,269,"No",6.55
+"Beacons","Primary",0.56,4.95,269,"No",6.82
+"Beacons","Primary",0.52,6.1,269,"No",7.22
+"Beacons","Primary",0.48,7.7,269,"No",7.63
+"Beacons","Primary",0.44,10.25,248,"No",8.07
+"Blacks","Primary",0.8,5.45,286,"No",4.78
+"Blacks","Primary",0.74,5.45,291,"No",4.25
+"Blacks","Primary",0.7,5.2,277,"No",4.27
+"Blacks","Primary",0.66,4.8,263,"No",4.53
+"Blacks","Primary",0.62,4.5,249,"No",4.77
+"Blacks","Primary",0.64,4.4,254,"No",4.83
+"Blacks","Primary",0.68,4.4,259,"No",4.88
+"Blacks","Primary",0.7,4.45,264,"No",5.07
+"Blacks","Primary",0.68,4.55,264,"No",5.53
+"Blacks","Primary",0.68,4.65,264,"No",6.1
+"Blacks","Primary",0.66,4.7,264,"No",6.53
+"Blacks","Primary",0.68,4.55,265,"No",6.7
+"Blacks","Primary",0.7,4.35,265,"No",6.73
+"Blacks","Primary",0.72,4.35,266,"No",6.78
+"Blacks","Primary",0.7,4.6,268,"No",6.92
+"Blacks","Primary",0.66,5.05,269,"No",7.08
+"Blacks","Primary",0.64,5.55,271,"No",7.2
+"Blacks","Primary",0.6,6.05,271,"No",7.2
+"Blacks","Primary",0.58,6.65,272,"No",7.18
+"Blacks","Primary",0.54,7.3,272,"No",7.23
+"Blacks","Primary",0.52,8.05,273,"No",7.47
+"Blacks","Primary",0.5,8.9,274,"No",7.77
+"Blacks","Primary",0.48,10,275,"No",8.08
+"Blacks","Primary",0.44,11.8,252,"No",8.43
+"Cardiff Reef","Primary",0.74,4.8,268,"No",5.15
+"Cardiff Reef","Primary",0.68,4.55,265,"No",4.67
+"Cardiff Reef","Primary",0.64,4.4,264,"No",4.38
+"Cardiff Reef","Primary",0.62,4.3,263,"No",4.18
+"Cardiff Reef","Primary",0.58,4.3,262,"No",4.13
+"Cardiff Reef","Primary",0.56,4.5,262,"No",4.28
+"Cardiff Reef","Primary",0.54,4.85,262,"No",4.6
+"Cardiff Reef","Primary",0.52,5,262,"No",4.95
+"Cardiff Reef","Primary",0.56,4.8,262,"No",5.38
+"Cardiff Reef","Primary",0.62,4.4,262,"No",5.78
+"Cardiff Reef","Primary",0.66,4.1,262,"No",6.07
+"Cardiff Reef","Primary",0.66,4.05,263,"No",6.13
+"Cardiff Reef","Primary",0.68,4.15,263,"No",6.1
+"Cardiff Reef","Primary",0.68,4.2,264,"No",6.1
+"Cardiff Reef","Primary",0.68,4.2,265,"No",6.25
+"Cardiff Reef","Primary",0.66,4.2,265,"No",6.45
+"Cardiff Reef","Primary",0.66,4.2,266,"No",6.6
+"Cardiff Reef","Primary",0.64,4.05,267,"No",6.6
+"Cardiff Reef","Primary",0.62,3.95,268,"No",6.55
+"Cardiff Reef","Primary",0.6,4.2,269,"No",6.55
+"Cardiff Reef","Primary",0.56,4.95,269,"No",6.82
+"Cardiff Reef","Primary",0.52,6.1,269,"No",7.22
+"Cardiff Reef","Primary",0.48,7.7,269,"No",7.63
+"Cardiff Reef","Primary",0.44,10.25,248,"No",8.07
+"Grandview","Primary",0.74,4.8,268,"No",5.15
+"Grandview","Primary",0.68,4.55,265,"No",4.67
+"Grandview","Primary",0.64,4.4,264,"No",4.38
+"Grandview","Primary",0.62,4.3,263,"No",4.18
+"Grandview","Primary",0.58,4.3,262,"No",4.13
+"Grandview","Primary",0.56,4.5,262,"No",4.28
+"Grandview","Primary",0.54,4.85,262,"No",4.6
+"Grandview","Primary",0.52,5,262,"No",4.95
+"Grandview","Primary",0.56,4.8,262,"No",5.38
+"Grandview","Primary",0.62,4.4,262,"No",5.78
+"Grandview","Primary",0.66,4.1,262,"No",6.07
+"Grandview","Primary",0.66,4.05,263,"No",6.13
+"Grandview","Primary",0.68,4.15,263,"No",6.1
+"Grandview","Primary",0.68,4.2,264,"No",6.1
+"Grandview","Primary",0.68,4.2,265,"No",6.25
+"Grandview","Primary",0.66,4.2,265,"No",6.45
+"Grandview","Primary",0.66,4.2,266,"No",6.6
+"Grandview","Primary",0.64,4.05,267,"No",6.6
+"Grandview","Primary",0.62,3.95,268,"No",6.55
+"Grandview","Primary",0.6,4.2,269,"No",6.55
+"Grandview","Primary",0.56,4.95,269,"No",6.82
+"Grandview","Primary",0.52,6.1,269,"No",7.22
+"Grandview","Primary",0.48,7.7,269,"No",7.63
+"Grandview","Primary",0.44,10.25,248,"No",8.07
+"Ocean Beach","Primary",0.92,5.45,286,"No",5.58
+"Ocean Beach","Primary",0.86,5.45,291,"No",5.45
+"Ocean Beach","Primary",0.82,5.25,277,"No",5.45
+"Ocean Beach","Primary",0.8,5,263,"No",5.52
+"Ocean Beach","Primary",0.76,4.75,249,"No",5.55
+"Ocean Beach","Primary",0.76,4.6,254,"No",5.42
+"Ocean Beach","Primary",0.78,4.55,259,"No",5.25
+"Ocean Beach","Primary",0.78,4.45,264,"No",5.28
+"Ocean Beach","Primary",0.78,4.35,264,"No",5.73
+"Ocean Beach","Primary",0.78,4.3,264,"No",6.38
+"Ocean Beach","Primary",0.78,4.25,264,"No",6.87
+"Ocean Beach","Primary",0.78,4.25,265,"No",7
+"Ocean Beach","Primary",0.8,4.3,265,"No",6.95
+"Ocean Beach","Primary",0.8,4.4,266,"No",6.92
+"Ocean Beach","Primary",0.76,4.6,268,"No",7
+"Ocean Beach","Primary",0.74,4.9,269,"No",7.1
+"Ocean Beach","Primary",0.7,5.25,271,"No",7.18
+"Ocean Beach","Primary",0.66,5.6,271,"No",7.22
+"Ocean Beach","Primary",0.6,5.95,272,"No",7.22
+"Ocean Beach","Primary",0.56,6.6,272,"No",7.32
+"Ocean Beach","Primary",0.52,7.55,273,"No",7.62
+"Ocean Beach","Primary",0.5,8.75,274,"No",8.02
+"Ocean Beach","Primary",0.46,10.15,275,"Yes",8.37
+"Ocean Beach","Primary",0.44,11.95,252,"Yes",8.62
+"Oceanside Harbor","Primary",0.78,5.15,267,"No",7.1
+"Oceanside Harbor","Primary",0.76,5.15,267,"No",6.93
+"Oceanside Harbor","Primary",0.7,5.3,271,"No",6.28
+"Oceanside Harbor","Primary",0.64,5.55,275,"No",5.43
+"Oceanside Harbor","Primary",0.58,5.6,279,"No",5
+"Oceanside Harbor","Primary",0.58,5.3,272,"No",5.45
+"Oceanside Harbor","Primary",0.6,4.8,264,"No",6.3
+"Oceanside Harbor","Primary",0.6,4.45,257,"No",6.9
+"Oceanside Harbor","Primary",0.62,4.45,258,"No",6.95
+"Oceanside Harbor","Primary",0.64,4.6,260,"No",6.7
+"Oceanside Harbor","Primary",0.66,4.7,261,"No",6.48
+"Oceanside Harbor","Primary",0.66,4.65,261,"No",6.43
+"Oceanside Harbor","Primary",0.66,4.5,261,"No",6.38
+"Oceanside Harbor","Primary",0.66,4.4,261,"No",6.37
+"Oceanside Harbor","Primary",0.66,4.35,261,"No",6.35
+"Oceanside Harbor","Primary",0.64,4.35,262,"No",6.33
+"Oceanside Harbor","Primary",0.64,4.5,262,"No",6.42
+"Oceanside Harbor","Primary",0.6,4.8,257,"No",6.63
+"Oceanside Harbor","Primary",0.56,5.25,253,"No",6.93
+"Oceanside Harbor","Primary",0.52,5.9,248,"No",7.17
+"Oceanside Harbor","Primary",0.5,6.85,249,"No",7.37
+"Oceanside Harbor","Primary",0.46,8.05,249,"No",7.55
+"Oceanside Harbor","Primary",0.44,9.3,250,"No",7.73
+"Oceanside Harbor","Primary",0.44,10.6,233,"No",7.93
+"Oceanside Pier","Primary",0.78,5.15,267,"No",7.1
+"Oceanside Pier","Primary",0.76,5.15,267,"No",6.93
+"Oceanside Pier","Primary",0.7,5.3,271,"No",6.28
+"Oceanside Pier","Primary",0.64,5.55,275,"No",5.43
+"Oceanside Pier","Primary",0.58,5.6,279,"No",5
+"Oceanside Pier","Primary",0.58,5.3,272,"No",5.45
+"Oceanside Pier","Primary",0.6,4.8,264,"No",6.3
+"Oceanside Pier","Primary",0.6,4.45,257,"No",6.9
+"Oceanside Pier","Primary",0.62,4.45,258,"No",6.95
+"Oceanside Pier","Primary",0.64,4.6,260,"No",6.7
+"Oceanside Pier","Primary",0.66,4.7,261,"No",6.48
+"Oceanside Pier","Primary",0.66,4.65,261,"No",6.43
+"Oceanside Pier","Primary",0.66,4.5,261,"No",6.38
+"Oceanside Pier","Primary",0.66,4.4,261,"No",6.37
+"Oceanside Pier","Primary",0.66,4.35,261,"No",6.35
+"Oceanside Pier","Primary",0.64,4.35,262,"No",6.33
+"Oceanside Pier","Primary",0.64,4.5,262,"No",6.42
+"Oceanside Pier","Primary",0.6,4.8,257,"No",6.63
+"Oceanside Pier","Primary",0.56,5.25,253,"No",6.93
+"Oceanside Pier","Primary",0.52,5.9,248,"No",7.17
+"Oceanside Pier","Primary",0.5,6.85,249,"No",7.37
+"Oceanside Pier","Primary",0.46,8.05,249,"No",7.55
+"Oceanside Pier","Primary",0.44,9.3,250,"No",7.73
+"Oceanside Pier","Primary",0.44,10.6,233,"No",7.93
+"Pipes","Primary",0.74,4.8,268,"No",5.15
+"Pipes","Primary",0.68,4.55,265,"No",4.67
+"Pipes","Primary",0.64,4.4,264,"No",4.38
+"Pipes","Primary",0.62,4.3,263,"No",4.18
+"Pipes","Primary",0.58,4.3,262,"No",4.13
+"Pipes","Primary",0.56,4.5,262,"No",4.28
+"Pipes","Primary",0.54,4.85,262,"No",4.6
+"Pipes","Primary",0.52,5,262,"No",4.95
+"Pipes","Primary",0.56,4.8,262,"No",5.38
+"Pipes","Primary",0.62,4.4,262,"No",5.78
+"Pipes","Primary",0.66,4.1,262,"No",6.07
+"Pipes","Primary",0.66,4.05,263,"No",6.13
+"Pipes","Primary",0.68,4.15,263,"No",6.1
+"Pipes","Primary",0.68,4.2,264,"No",6.1
+"Pipes","Primary",0.68,4.2,265,"No",6.25
+"Pipes","Primary",0.66,4.2,265,"No",6.45
+"Pipes","Primary",0.66,4.2,266,"No",6.6
+"Pipes","Primary",0.64,4.05,267,"No",6.6
+"Pipes","Primary",0.62,3.95,268,"No",6.55
+"Pipes","Primary",0.6,4.2,269,"No",6.55
+"Pipes","Primary",0.56,4.95,269,"No",6.82
+"Pipes","Primary",0.52,6.1,269,"No",7.22
+"Pipes","Primary",0.48,7.7,269,"No",7.63
+"Pipes","Primary",0.44,10.25,248,"No",8.07
+"Scripps Pier","Primary",0.8,5.45,286,"No",4.78
+"Scripps Pier","Primary",0.74,5.45,291,"No",4.25
+"Scripps Pier","Primary",0.7,5.2,277,"No",4.27
+"Scripps Pier","Primary",0.66,4.8,263,"No",4.53
+"Scripps Pier","Primary",0.62,4.5,249,"No",4.77
+"Scripps Pier","Primary",0.64,4.4,254,"No",4.83
+"Scripps Pier","Primary",0.68,4.4,259,"No",4.88
+"Scripps Pier","Primary",0.7,4.45,264,"No",5.07
+"Scripps Pier","Primary",0.68,4.55,264,"No",5.53
+"Scripps Pier","Primary",0.68,4.65,264,"No",6.1
+"Scripps Pier","Primary",0.66,4.7,264,"No",6.53
+"Scripps Pier","Primary",0.68,4.55,265,"No",6.7
+"Scripps Pier","Primary",0.7,4.35,265,"No",6.73
+"Scripps Pier","Primary",0.72,4.35,266,"No",6.78
+"Scripps Pier","Primary",0.7,4.6,268,"No",6.92
+"Scripps Pier","Primary",0.66,5.05,269,"No",7.08
+"Scripps Pier","Primary",0.64,5.55,271,"No",7.2
+"Scripps Pier","Primary",0.6,6.05,271,"No",7.2
+"Scripps Pier","Primary",0.58,6.65,272,"No",7.18
+"Scripps Pier","Primary",0.54,7.3,272,"No",7.23
+"Scripps Pier","Primary",0.52,8.05,273,"No",7.47
+"Scripps Pier","Primary",0.5,8.9,274,"No",7.77
+"Scripps Pier","Primary",0.48,10,275,"Yes",8.08
+"Scripps Pier","Primary",0.44,11.8,252,"Yes",8.43
+"Seaside Reef","Primary",0.74,4.8,268,"No",5.15
+"Seaside Reef","Primary",0.68,4.55,265,"No",4.67
+"Seaside Reef","Primary",0.64,4.4,264,"No",4.38
+"Seaside Reef","Primary",0.62,4.3,263,"No",4.18
+"Seaside Reef","Primary",0.58,4.3,262,"No",4.13
+"Seaside Reef","Primary",0.56,4.5,262,"No",4.28
+"Seaside Reef","Primary",0.54,4.85,262,"No",4.6
+"Seaside Reef","Primary",0.52,5,262,"No",4.95
+"Seaside Reef","Primary",0.56,4.8,262,"No",5.38
+"Seaside Reef","Primary",0.62,4.4,262,"No",5.78
+"Seaside Reef","Primary",0.66,4.1,262,"No",6.07
+"Seaside Reef","Primary",0.66,4.05,263,"No",6.13
+"Seaside Reef","Primary",0.68,4.15,263,"No",6.1
+"Seaside Reef","Primary",0.68,4.2,264,"No",6.1
+"Seaside Reef","Primary",0.68,4.2,265,"No",6.25
+"Seaside Reef","Primary",0.66,4.2,265,"No",6.45
+"Seaside Reef","Primary",0.66,4.2,266,"No",6.6
+"Seaside Reef","Primary",0.64,4.05,267,"No",6.6
+"Seaside Reef","Primary",0.62,3.95,268,"No",6.55
+"Seaside Reef","Primary",0.6,4.2,269,"No",6.55
+"Seaside Reef","Primary",0.56,4.95,269,"No",6.82
+"Seaside Reef","Primary",0.52,6.1,269,"No",7.22
+"Seaside Reef","Primary",0.48,7.7,269,"No",7.63
+"Seaside Reef","Primary",0.44,10.25,248,"No",8.07
+"Swamis","Primary",0.74,4.8,268,"No",5.15
+"Swamis","Primary",0.68,4.55,265,"No",4.67
+"Swamis","Primary",0.64,4.4,264,"No",4.38
+"Swamis","Primary",0.62,4.3,263,"No",4.18
+"Swamis","Primary",0.58,4.3,262,"No",4.13
+"Swamis","Primary",0.56,4.5,262,"No",4.28
+"Swamis","Primary",0.54,4.85,262,"No",4.6
+"Swamis","Primary",0.52,5,262,"No",4.95
+"Swamis","Primary",0.56,4.8,262,"No",5.38
+"Swamis","Primary",0.62,4.4,262,"No",5.78
+"Swamis","Primary",0.66,4.1,262,"No",6.07
+"Swamis","Primary",0.66,4.05,263,"No",6.13
+"Swamis","Primary",0.68,4.15,263,"No",6.1
+"Swamis","Primary",0.68,4.2,264,"No",6.1
+"Swamis","Primary",0.68,4.2,265,"No",6.25
+"Swamis","Primary",0.66,4.2,265,"No",6.45
+"Swamis","Primary",0.66,4.2,266,"No",6.6
+"Swamis","Primary",0.64,4.05,267,"No",6.6
+"Swamis","Primary",0.62,3.95,268,"No",6.55
+"Swamis","Primary",0.6,4.2,269,"No",6.55
+"Swamis","Primary",0.56,4.95,269,"No",6.82
+"Swamis","Primary",0.52,6.1,269,"No",7.22
+"Swamis","Primary",0.48,7.7,269,"No",7.63
+"Swamis","Primary",0.44,10.25,248,"No",8.07
+"Tamarack","Primary",0.8,5.1,271,"No",6.97
+"Tamarack","Primary",0.78,5.05,271,"No",7.03
+"Tamarack","Primary",0.74,4.95,270,"No",6.98
+"Tamarack","Primary",0.72,4.9,269,"No",6.9
+"Tamarack","Primary",0.68,4.9,268,"No",6.85
+"Tamarack","Primary",0.66,5.05,268,"No",6.88
+"Tamarack","Primary",0.66,5.35,267,"No",6.98
+"Tamarack","Primary",0.64,5.45,267,"No",7.02
+"Tamarack","Primary",0.64,5.35,266,"No",6.98
+"Tamarack","Primary",0.66,5.1,265,"No",6.88
+"Tamarack","Primary",0.66,4.85,264,"No",6.78
+"Tamarack","Primary",0.68,4.65,264,"No",6.7
+"Tamarack","Primary",0.68,4.4,264,"No",6.62
+"Tamarack","Primary",0.7,4.3,264,"No",6.58
+"Tamarack","Primary",0.68,4.4,265,"No",6.67
+"Tamarack","Primary",0.66,4.55,265,"No",6.78
+"Tamarack","Primary",0.64,4.7,266,"No",6.88
+"Tamarack","Primary",0.62,4.45,267,"No",6.83
+"Tamarack","Primary",0.6,4.2,267,"No",6.75
+"Tamarack","Primary",0.58,4.7,268,"No",6.8
+"Tamarack","Primary",0.52,6.75,256,"No",7.18
+"Tamarack","Primary",0.48,9.55,243,"No",7.72
+"Tamarack","Primary",0.42,11.6,231,"No",8.12
+"Tamarack","Primary",0.42,12.1,231,"Yes",8.22
+"Terramar","Primary",0.8,5.1,271,"No",6.97
+"Terramar","Primary",0.78,5.05,271,"No",7.03
+"Terramar","Primary",0.74,4.95,270,"No",6.98
+"Terramar","Primary",0.72,4.9,269,"No",6.9
+"Terramar","Primary",0.68,4.9,268,"No",6.85
+"Terramar","Primary",0.66,5.05,268,"No",6.88
+"Terramar","Primary",0.66,5.35,267,"No",6.98
+"Terramar","Primary",0.64,5.45,267,"No",7.02
+"Terramar","Primary",0.64,5.35,266,"No",6.98
+"Terramar","Primary",0.66,5.1,265,"No",6.88
+"Terramar","Primary",0.66,4.85,264,"No",6.78
+"Terramar","Primary",0.68,4.65,264,"No",6.7
+"Terramar","Primary",0.68,4.4,264,"No",6.62
+"Terramar","Primary",0.7,4.3,264,"No",6.58
+"Terramar","Primary",0.68,4.4,265,"No",6.67
+"Terramar","Primary",0.66,4.55,265,"No",6.78
+"Terramar","Primary",0.64,4.7,266,"No",6.88
+"Terramar","Primary",0.62,4.45,267,"No",6.83
+"Terramar","Primary",0.6,4.2,267,"No",6.75
+"Terramar","Primary",0.58,4.7,268,"No",6.8
+"Terramar","Primary",0.52,6.75,256,"No",7.18
+"Terramar","Primary",0.48,9.55,243,"No",7.72
+"Terramar","Primary",0.42,11.6,231,"No",8.12
+"Terramar","Primary",0.42,12.1,231,"Yes",8.22
+"Tourmaline","Primary",0.92,5.45,286,"No",5.58
+"Tourmaline","Primary",0.86,5.45,291,"No",5.45
+"Tourmaline","Primary",0.82,5.25,277,"No",5.45
+"Tourmaline","Primary",0.8,5,263,"No",5.52
+"Tourmaline","Primary",0.76,4.75,249,"No",5.55
+"Tourmaline","Primary",0.76,4.6,254,"No",5.42
+"Tourmaline","Primary",0.78,4.55,259,"No",5.25
+"Tourmaline","Primary",0.78,4.45,264,"No",5.28
+"Tourmaline","Primary",0.78,4.35,264,"No",5.73
+"Tourmaline","Primary",0.78,4.3,264,"No",6.38
+"Tourmaline","Primary",0.78,4.25,264,"No",6.87
+"Tourmaline","Primary",0.78,4.25,265,"No",7
+"Tourmaline","Primary",0.8,4.3,265,"No",6.95
+"Tourmaline","Primary",0.8,4.4,266,"No",6.92
+"Tourmaline","Primary",0.76,4.6,268,"No",7
+"Tourmaline","Primary",0.74,4.9,269,"No",7.1
+"Tourmaline","Primary",0.7,5.25,271,"No",7.18
+"Tourmaline","Primary",0.66,5.6,271,"No",7.22
+"Tourmaline","Primary",0.6,5.95,272,"No",7.22
+"Tourmaline","Primary",0.56,6.6,272,"No",7.32
+"Tourmaline","Primary",0.52,7.55,273,"No",7.62
+"Tourmaline","Primary",0.5,8.75,274,"No",8.02
+"Tourmaline","Primary",0.46,10.15,275,"Yes",8.37
+"Tourmaline","Primary",0.44,11.95,252,"Yes",8.62
+"Windansea","Primary",0.92,5.45,286,"No",5.58
+"Windansea","Primary",0.86,5.45,291,"No",5.45
+"Windansea","Primary",0.82,5.25,277,"No",5.45
+"Windansea","Primary",0.8,5,263,"No",5.52
+"Windansea","Primary",0.76,4.75,249,"No",5.55
+"Windansea","Primary",0.76,4.6,254,"No",5.42
+"Windansea","Primary",0.78,4.55,259,"No",5.25
+"Windansea","Primary",0.78,4.45,264,"No",5.28
+"Windansea","Primary",0.78,4.35,264,"No",5.73
+"Windansea","Primary",0.78,4.3,264,"No",6.38
+"Windansea","Primary",0.78,4.25,264,"No",6.87
+"Windansea","Primary",0.78,4.25,265,"No",7
+"Windansea","Primary",0.8,4.3,265,"No",6.95
+"Windansea","Primary",0.8,4.4,266,"No",6.92
+"Windansea","Primary",0.76,4.6,268,"No",7
+"Windansea","Primary",0.74,4.9,269,"No",7.1
+"Windansea","Primary",0.7,5.25,271,"No",7.18
+"Windansea","Primary",0.66,5.6,271,"No",7.22
+"Windansea","Primary",0.6,5.95,272,"No",7.22
+"Windansea","Primary",0.56,6.6,272,"No",7.32
+"Windansea","Primary",0.52,7.55,273,"No",7.62
+"Windansea","Primary",0.5,8.75,274,"No",8.02
+"Windansea","Primary",0.46,10.15,275,"No",8.37
+"Windansea","Primary",0.44,11.95,252,"No",8.62

@@ -21,5 +21,5 @@ END AS "In Ideal Window"
 FROM forecasts f
 JOIN breaks b ON f.break_id = b.break_id
 JOIN scores s ON s.forecast_id = f.forecast_id
-WHERE EXTRACT(HOUR FROM f.forecast_for AT TIME ZONE 'America/Los_Angeles') BETWEEN 6 AND 20
+WHERE EXTRACT(HOUR FROM f.forecast_for AT TIME ZONE 'America/Los_Angeles') BETWEEN 6 AND 20 AND f.collected_at = (SELECT MAX(collected_at) FROM forecasts)
 ORDER BY f.forecast_for, b.name;

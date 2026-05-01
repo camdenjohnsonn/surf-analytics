@@ -1,6 +1,10 @@
 SELECT
     b.name                          AS "Break",
-    sw.swell_number                 AS "Dominant Swell",
+CASE sw.swell_number
+    WHEN 1 THEN 'Primary'
+    WHEN 2 THEN 'Secondary'
+    WHEN 3 THEN 'Tertiary'
+END AS "Dominant Swell",
     sw.height_m                     AS "Dominant Height (m)",
     sw.period_s                     AS "Dominant Period (s)",
     sw.dir_deg                      AS "Dominant Direction",
@@ -8,7 +12,7 @@ SELECT
         WHEN sw.period_s >= b.ideal_period_min_s THEN 'Yes' 
         ELSE 'No' 
     END                             AS "Meets Min Period",
-    AVG(sw.period_s) OVER (PARTITION BY f.forecast_id) AS "Avg Period All Swells"
+(SELECT ROUND(AVG(period_s), 2) FROM swells WHERE forecast_id = f.forecast_id) AS "Avg Period All Swells"
 FROM forecasts f
 JOIN breaks b ON f.break_id = b.break_id
 JOIN scores s ON s.forecast_id = f.forecast_id
