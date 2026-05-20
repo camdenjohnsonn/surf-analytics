@@ -45,11 +45,6 @@ df5 <- run_query("~/surf-analytics/sql/05_accuracy_decay.sql")
 write.csv(df5, "~/surf-analytics/exports/05_accuracy_decay.csv", row.names = FALSE)
 message(paste0("  ✓ ", nrow(df5), " rows"))
 
-message("All exports complete. Files saved to ~/surf-analytics/exports/")
-
-system("cp ~/surf-analytics/exports/*.csv /mnt/c/Users/camde/Desktop/surfanalytics/")
-message("CSVs copied to Desktop/surfanalytics")
-
 message("Exporting query 5b: accuracy decay aggregated...")
 sql5b <- paste(readLines("~/surf-analytics/sql/05b_accuracy_decay_agg.sql"), collapse = "\n")
 df5b <- dbGetQuery(con, sql5b)
@@ -61,3 +56,8 @@ sql5c <- paste(readLines("~/surf-analytics/sql/05c_accuracy_decay_overall.sql"),
 df5c <- dbGetQuery(con, sql5c)
 write.csv(df5c, "~/surf-analytics/exports/05c_accuracy_decay_overall.csv", row.names = FALSE)
 message(paste0("  ✓ ", nrow(df5c), " rows"))
+
+message("All exports complete. Files saved to ~/surf-analytics/exports/")
+
+system("cp ~/surf-analytics/exports/*.csv /mnt/c/Users/camde/Desktop/surfanalytics/")
+message("CSVs copied to Desktop/surfanalytics")
