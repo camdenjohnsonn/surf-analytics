@@ -7,7 +7,7 @@ and conditions across 16 breaks in San Diego County.
 [View on Tableau Public](https://public.tableau.com/app/profile/camden.johnson2731/viz/surf-analytics/SurfForecastAnalytics-SanDiegoCounty)
 
 ## Stack
-- **R** — API ingestion pipeline (httr2, RPostgres)
+- **Python** — API ingestion pipeline (requests, psycopg2, pandas)
 - **PostgreSQL** (Docker) — time-series forecast storage
 - **SQL** — analytical queries (CTEs, window functions)
 - **Tableau** — dashboard and visualization
@@ -36,10 +36,10 @@ Four normalized tables: `breaks`, `forecasts`, `swells`, `scores`
 
 ```
 surf-analytics/
-├── r/
-│   ├── ingest.R          # Daily API ingestion script
-│   ├── export.R          # CSV export for Tableau
-│   └── setup_breaks.R    # One-time breaks table setup
+├── python/
+│   ├── ingest.py         # Daily API ingestion script
+│   ├── export.py         # CSV export for Tableau
+│   └── setup_breaks.py   # One-time breaks table setup
 ├── sql/
 │   ├── 01_break_conditions.sql
 │   ├── 02_surfability_windows.sql
@@ -48,6 +48,7 @@ surf-analytics/
 │   ├── 05_accuracy_decay.sql
 │   ├── 05b_accuracy_decay_agg.sql
 │   └── 05c_accuracy_decay_overall.sql
+├── archive/              # Original R scripts
 ├── exports/              # CSV outputs for Tableau (gitignored)
 └── data/                 # Logs (gitignored)
 ```
