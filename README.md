@@ -37,10 +37,11 @@ Four normalized tables: `breaks`, `forecasts`, `swells`, `scores`
 ```
 surf-analytics/
 ├── python/
-│   ├── ingest.py         # Daily API ingestion script
-│   ├── export.py         # CSV export for Tableau
-│   └── setup_breaks.py   # One-time breaks table setup
+│   ├── setup.py          # One-time: create tables and populate breaks
+│   ├── ingest.py         # Daily API ingestion (runs via cron at 6pm)
+│   └── export.py         # CSV export for Tableau
 ├── sql/
+│   ├── schema.sql
 │   ├── 01_break_conditions.sql
 │   ├── 02_surfability_windows.sql
 │   ├── 03_break_rankings.sql
