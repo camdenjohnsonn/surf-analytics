@@ -7,6 +7,10 @@ library(jsonlite)
 library(dplyr)
 library(lubridate)
 
+readRenviron("~/.env") # falls back silently if missing
+readRenviron("~/surf-analytics/.env")
+owner_api_key <- Sys.getenv("OWNER_API_KEY")
+
 
 
 breaks <- tibble(
@@ -48,6 +52,7 @@ fetch_forecast <- function(url_name) {
   url <- paste0(base_url, "/", url_name)
 
   response <- request(url) |>
+    req_headers(`x-owner-key` = owner_api_key) |>
     req_timeout(30) |>
     req_retry(max_tries = 3) |>
     req_perform()
